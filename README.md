@@ -1,30 +1,30 @@
-# Universidade Amazônia - APS
+# Amazonia University - APS 🏛️
 
-Este projeto é uma aplicação desktop desenvolvida em **Java** como parte da Atividade Prática Supervisionada (APS). O sistema foi projetado para gerenciar portais de diferentes perfis de usuários (Alunos, Professores e Administradores), utilizando uma arquitetura organizada e escalável.
+This project is a desktop application developed in **Java** as part of the Supervised Practical Activity (APS). The system was designed to manage portals for different user profiles (Students, Professors, and Administrators), utilizing an organized and scalable architecture.
 
-## 🏗️ Arquitetura do Projeto
-O sistema segue o padrão **MVC (Model-View-Controller)**, garantindo a separação de responsabilidades:
+## 🏗️ Project Architecture
+The system follows the **MVC (Model-View-Controller)** pattern, ensuring a clear separation of concerns:
 
-* **Model:** Contém as classes de entidade (ex: `Aluno.java`) e a lógica de persistência (`Conexao.java`).
-* **View:** Interface do usuário, composta por múltiplas telas de login e portais específicos para cada nível de acesso.
-* **Controller:** Gerencia o fluxo de dados entre a View e o Model (ex: `AlunoController.java`, `ProfessorController.java`).
+* **Model:** Contains entity classes (e.g., `Aluno.java`) and persistence logic (`Conexao.java`).
+* **View:** User interface, composed of multiple login screens and specific portals for each access level.
+* **Controller:** Manages the data flow between the View and the Model (e.g., `AlunoController.java`, `ProfessorController.java`).
 
-## 🚀 Funcionalidades Principais
-* **Autenticação Multi-nível:** Telas de login customizadas para Administradores, Alunos e Professores.
-* **Portal do Aluno/Professor/Adm:** Interfaces distintas com funcionalidades específicas para cada tipo de usuário.
-* **Gerenciamento de Dados:** Controlador centralizado para manipulação de informações acadêmicas.
-* **Conexão com Banco de Dados:** Classe dedicada para gerenciar o estado da conexão.
+## 🚀 Key Features
+* **Multi-level Authentication:** Customized login screens for Administrators, Students, and Professors.
+* **Student/Professor/Admin Portals:** Distinct interfaces with specific functionalities for each user type.
+* **Data Management:** Centralized controller for handling academic information.
+* **Database Connection:** Dedicated class to manage the connection state and persistence.
 
-## 🛠️ Tecnologias Utilizadas
-* **Linguagem:** Java
-* **Ambiente de Desenvolvimento:** IntelliJ IDEA (arquivos `.idea`, `.iml`)
-* **Controle de Versão:** Git
+## 🛠️ Technologies Used
+* **Language:** Java
+* **IDE:** IntelliJ IDEA (`.idea`, `.iml` files)
+* **Version Control:** Git
 
-## 📂 Como Executar o Projeto
-1. Clone este repositório.
-2. Abra o projeto em sua IDE de preferência (recomendado: IntelliJ IDEA).
-3. Certifique-se de que o SDK do Java esteja configurado corretamente.
-4. Execute a classe `Main.java` localizada na raiz do diretório `src`.
+## 📂 How to Run the Project
+1. Clone this repository.
+2. Open the project in your preferred IDE (IntelliJ IDEA recommended).
+3. Ensure the Java SDK is correctly configured.
+4. Run the `Main.java` class located at the root of the `src` directory.
 
 ---
-*Projeto desenvolvido por Gabriel Paloni para o curso de Ciência da Computação.*
+*Project developed by Gabriel Paloni for the Computer Science program.*
