@@ -27,4 +27,13 @@ The system follows the **MVC (Model-View-Controller)** pattern, ensuring a clear
 4. Run the `Main.java` class located at the root of the `src` directory.
 
 ---
-*Project developed by Gabriel Paloni for the Computer Science program.*
+
+## 👥 Contributors (Team)
+
+* **Ana Paula** - *Developer & Collaborator*
+* **Gabriel Paloni** - *Developer & Project Lead*
+* **Graziela Lopes - *Developer & Collaborator*
+* **Hector Uriel** - *Developer & Collaborator*
+* **Pedro Alaby** - *Developer & Collaborator*
+
+---
