@@ -32,7 +32,7 @@ The system follows the **MVC (Model-View-Controller)** pattern, ensuring a clear
 
 * **Ana Paula** - *Developer & Collaborator*
 * **Gabriel Paloni** - *Developer & Project Lead*
-* **Graziela Lopes - *Developer & Collaborator*
+* **Graziela Lopes** - *Developer & Collaborator*
 * **Hector Uriel** - *Developer & Collaborator*
 * **Pedro Alaby** - *Developer & Collaborator*
 
